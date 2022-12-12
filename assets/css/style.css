@@ -35,6 +35,12 @@ h6 {
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
+/*git hub and linkedin icon size*/
+
+.bxl-github ,.bxl-linkedin{
+font-size: xx-large;
+}
+
 .back-to-top {
   position: fixed;
   visibility: hidden;
